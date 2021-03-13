@@ -1,7 +1,14 @@
-# heat_transfer_GUI_matlab
+# GUI - MatLab - Simulation of Heat Transfer
+
 MatLab GUIDE program 
 
-Simulation modeled in a finite difference approach with an explicit model.
+Simulation of a perfect retangular body under themodinamical constrains:
+  - Convection
+  - Conduction
+  - Adiabatic walls
+  - Heat generation
+
+The simulation modeled in a finite difference approach with an explicit model.
 
 Languages:
 Portuguese
